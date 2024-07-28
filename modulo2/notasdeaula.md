@@ -7,3 +7,6 @@
     o que, quem e quando foi modificado
     --> possui um código para identificação
     git commit -m "descrição da alteração"
+
+## git push > enviar git para o github
+## git pull > enviar do github para o git
